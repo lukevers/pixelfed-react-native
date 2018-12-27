@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PixelFed",
-    "slug": "PixelFed",
+    "name": "PixelFed Unofficial",
+    "slug": "pixelfed-unofficial",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": [
